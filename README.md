@@ -1,18 +1,3 @@
-##Hi, I'm Abdelaziz! 🚀
-
-🐍 Python Programming – Writing efficient code</b>
-🧠 Algorithms & Problem-Solving – Optimizing solutions effectively</b>
-🌐 Web Development Basics – Creating simple websites</b>
-🖥️ Linux OS – Navigating the system with confidence</b>
-📊 Microsoft Excel – Data analysis made easy</b>
-🎤 Microsoft PowerPoint – Crafting impactful presentations</b>
-🔗 Git & GitHub – Version control & collaboration</b>
-📝 Microsoft Word – Writing professional documents</b>
-🏗️ WordPress Management – Handling website content</b>
-📦 Data Structures in Python – Basics & OOP</b>
-
-Let's connect! 🚀
-
 # 💫 About Me:
 ##Hi, I'm Abdelaziz! 🚀<br><br>🐍 Python Programming – Writing efficient code</b><br>🧠 Algorithms & Problem-Solving – Optimizing solutions effectively</b><br>🌐 Web Development Basics – Creating simple websites</b><br>🖥️ Linux OS – Navigating the system with confidence</b><br>📊 Microsoft Excel – Data analysis made easy</b><br>🎤 Microsoft PowerPoint – Crafting impactful presentations</b><br>🔗 Git & GitHub – Version control & collaboration</b><br>📝 Microsoft Word – Writing professional documents</b><br>🏗️ WordPress Management – Handling website content</b><br>📦 Data Structures in Python – Basics & OOP</b><br><br>Let's connect! 🚀<br><br><br>
 
